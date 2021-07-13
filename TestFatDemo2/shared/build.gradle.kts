@@ -15,7 +15,7 @@ plugins {
  * true : Test Library
  * false : Test Framework
  */
-val isTestLibrary = false
+val isTestLibrary = true
 
 val frameworkName = "testCinteropExtFmwkOrLib"
 

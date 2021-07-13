@@ -1,0 +1,6 @@
+language = Objective-C
+headers = AAA.h
+libraryPaths = /Users/yangyong/Work/TestFatDemo2/extFramework
+staticLibraries = FA.framework
+compilerOpts = -I/Users/yangyong/Work/TestFatDemo2/extFramework/FA.framework/Headers
+

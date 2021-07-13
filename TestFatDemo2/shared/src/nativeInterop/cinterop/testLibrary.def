@@ -1,0 +1,6 @@
+language = Objective-C
+headers = CInteropTest1.h
+libraryPaths = /Users/yangyong/Work/TestFatDemo2/extLibrary
+staticLibraries = libKMMLibrary.a
+compilerOpts = -I/Users/yangyong/Work/TestFatDemo2/extLibrary/include
+
